@@ -1,0 +1,7 @@
+Using Python, building own web scraping tool to monitor Amazon Product's  Price according to time Automatically.
+
+Libraries Imported (Installation commands):
+1. requests (pip install requests)
+2. BeautifulSoup (pip install beautifulsoup4)
+3. datetime (pip install DateTime)
+4 . time (pip install times)
